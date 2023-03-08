@@ -1,6 +1,6 @@
 <p>Hello 👋 and Welcome to my profile! </br></br> I'm David González (@davidsdevel on internet), Fullstack developer with JavaScript. from <img src="https://cdn-icons-png.flaticon.com/128/5922/5922025.png" width="13"/> <b>Venezuela</b></p>
 
-- 🔭 I’m currently working on a [videocall app](https://github.com/davidsdevel/lakar-videocall), built with WebRTC, React, NextJS, MongoDB, Socket.IO, TailwindCSS and Express.
+- 🔭 I’m currently working on a [hardware store application](https://github.com/davidsdevel/product-management), built with React, NextJS, Deta Base, Firebase, TailwindCSS and GraphQL Yoga.
 - 👯 I’m looking to collaborate on Fullstack projects
 - 🤔 I’m looking for help with [LetterCMS](https://github.com/lettercms/lettercms)
 - 📫 How to reach me: @davidsdevel in all internet
@@ -37,8 +37,9 @@
 
 ### Projects
 
-- [**LetterCMS**](https://lettercms.vercel.app): CMS focused on user attraction and engagement
-- [**Rocket Translator**](https://www.npmjs.com/package/rocket-translator): Transform HTML into React, Vue and Angular
+- [**Lakar Video**](https://lakar-video.vercel.app): Communication app, support videocall and realtime chat.
+- [**LetterCMS**](https://lettercms.vercel.app): CMS focused on user attraction and engagement.
+- [**Rocket Translator**](https://www.npmjs.com/package/rocket-translator): Transform HTML into React, Vue and Angular.
 
 ### Statistics 🧐
 
