@@ -1,7 +1,7 @@
 <p>Hello 👋 and Welcome to my profile! </br></br> I'm David González (@davidsdevel on internet), Fullstack developer with JavaScript. from <img src="https://cdn-icons-png.flaticon.com/128/5922/5922025.png" width="13"/> <b>Venezuela</b></p>
 
 # 💫 About Me:
-🔭 I’m currently working on Content Management System foncused on Content Marketing<br>👯 I’m looking to collaborate on Fullstack projects<br>🤝 I’m looking for help with [LetterCMS](https://github.com/lettercms/lettercms)<br>🌱 I’m currently learning Project Management<br>💬 Ask me about Inound Marketing and JavaScript<br>
+🔭 I’m currently working on Content Management System focused on Content Marketing<br>👯 I’m looking to collaborate on Fullstack projects<br>🤝 I’m looking for help with [LetterCMS](https://github.com/lettercms/lettercms)<br>🌱 I’m currently learning Project Management<br>💬 Ask me about Inound Marketing and JavaScript<br>
 
 
 ## 🌐 Socials:
